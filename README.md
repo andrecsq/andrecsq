@@ -1,10 +1,9 @@
-![data engineering in a nutshell](https://i.imgur.com/gUEwQWn.jpg)
+![data engineering in a nutshell](https://i.imgur.com/O9Qvn5Q.jpg)
 
 ## Hey! 👋
 I'm André, a Data Engineer from Brazil.
 
 - 📚 Computer Scientist from Federal University of Rio de Janeiro
-
 - 👥 Data Tech Lead at [@paretogroup](https://github.com/paretogroup)
 
 ## Skills
@@ -13,5 +12,4 @@ I'm André, a Data Engineer from Brazil.
 - 🎲 MySQL, SQL, BigQuery
 - 🌎 Terraform
 
-## Contact
-- [@andrecsq](https://www.linkedin.com/in/andrecsq/) on LinkedIn
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecsq)](https://github.com/anuraghazra/github-readme-stats)
