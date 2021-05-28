@@ -11,5 +11,3 @@ I'm André, a Data Engineer from Brazil.
 - ✨ Spark, Airflow
 - 🎲 MySQL, SQL, BigQuery
 - 🌎 Terraform
-
-[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecsq)](https://github.com/anuraghazra/github-readme-stats)
