@@ -1,4 +1,6 @@
-![data engineering in a nutshell](https://i.imgur.com/O9Qvn5Q.jpg)
+<p align="center">
+  <img src="https://i.imgur.com/O9Qvn5Q.jpg" />
+</p>
 
 ## Hey! 👋
 I'm André, a Data Engineer from Brazil.
