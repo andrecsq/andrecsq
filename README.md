@@ -1,16 +1,17 @@
-### Hi there 👋
+![data engineering in a nutshell](https://i.imgur.com/gUEwQWn.jpg)
 
-<!--
-**andrecsq/andrecsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm André, a Data Engineer from Brazil.
 
-Here are some ideas to get you started:
+- 📚 Computer Scientist from Federal University of Rio de Janeiro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👥 Data Tech Lead at [@paretogroup](https://github.com/paretogroup)
+
+## Skills
+- ☁️ GCP, AWS
+- ✨ Spark, Airflow
+- 🎲 MySQL, SQL, BigQuery
+- 🌎 Terraform
+
+## Contact
+- [@andrecsq](https://www.linkedin.com/in/andrecsq/) on LinkedIn
