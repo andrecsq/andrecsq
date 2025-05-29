@@ -1,15 +1,14 @@
-<p align="center">
-  <img src="https://i.imgur.com/O9Qvn5Q.jpg" />
-</p>
-
 ## Hey! 👋
-I'm André, a Data Engineer from Brazil.
+I'm André, a Software Engineer, Data Engineer and AI Developer from Brazil.
 
-- 📚 Computer Scientist from Federal University of Rio de Janeiro
-- 👥 I work at [@paretogroup](https://github.com/paretogroup)
+- 📚 Bachelor in Computer Scientist from Federal University of Rio de Janeiro
+- 👥 I have 6 years of experience working at [@paretogroup](https://github.com/paretogroup) on TESS AI
 
 ## Skills
-- ☁️ GCP, AWS
-- ✨ Spark, Airflow
-- 🎲 MySQL, SQL, BigQuery
-- 🌎 Terraform
+- ☁️ Infra: GCP, AWS, Terraform, Docker
+- ✨ Data Engieneering: Spark, Airflow
+- 🎲 Databases: MySQL, SQL, BigQuery, Redis, Mongodb (w/ Vector)
+- 🧠 AI: LLMs, RAG, Prompt Engineering, Agents
+- 🛠️ Backend: Python, PHP Laravel, Node.js
+- 💻 Frontend: React
+
