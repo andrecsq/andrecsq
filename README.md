@@ -6,7 +6,7 @@ I'm André, a Software Engineer, Data Engineer and AI Developer from Brazil.
 
 ## Skills
 - ☁️ Infra: GCP, AWS, Terraform, Docker
-- ✨ Data Engieneering: Spark, Airflow
+- ✨ Data Engineering: Spark, Airflow
 - 🎲 Databases: MySQL, SQL, BigQuery, Redis, Mongodb (w/ Vector)
 - 🧠 AI: LLMs, RAG, Prompt Engineering, MCP, Agents
 - 🛠️ Backend: Python, PHP Laravel, Node.js
