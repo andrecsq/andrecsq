@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm André, a Software Engineer, Data Engineer and AI Developer from Brazil.
+I'm André, a Software Engineer from Brazil.
 
 - 📚 Bachelor in Computer Science from Federal University of Rio de Janeiro
 - 👥 I have 6 years of experience in Software Engineering
