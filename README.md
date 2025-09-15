@@ -2,13 +2,13 @@
 I'm André, a Software Engineer, Data Engineer and AI Developer from Brazil.
 
 - 📚 Bachelor in Computer Science from Federal University of Rio de Janeiro
-- 👥 I have 6 years of experience working at [@paretogroup](https://github.com/paretogroup) on TESS AI
+- 👥 I have 6 years of experience in Software Engineering
 
 ## Skills
+- 🛠️ Backend: Python, PHP Laravel, Node.js
+- 💻 Frontend: React
 - ☁️ Infra: GCP, AWS, Terraform, Docker
 - ✨ Data Engineering: Spark, Airflow
 - 🎲 Databases: MySQL, SQL, BigQuery, Redis, Mongodb (w/ Vector)
 - 🧠 AI: LLMs, RAG, Prompt Engineering, MCP, Agents
-- 🛠️ Backend: Python, PHP Laravel, Node.js
-- 💻 Frontend: React
 
