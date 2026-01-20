@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm André, a Software Engineer from Brazil.
+I'm André, a Software Engineer from Brazil currently working at [Thread](https://www.getthread.com/)
 
 - 👥 6 years of experience in Software Engineering
 - 📚 Bachelor in Computer Science from Federal University of Rio de Janeiro
